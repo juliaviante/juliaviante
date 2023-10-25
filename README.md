@@ -1,10 +1,6 @@
 - 👋 Gosto de jogar bola
 - 👀  Gosto de ler
-- 🌱 Gosto da minha gata
-- 💞️ Aprendendo a viver intensamente
+- 🌱 Aprendendo a viver intensamente
+- 💞️ Amo animais
 - 📫 Gosto de cozinhar
-
-<!---
-juliaviante/juliaviante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ![](https://tenor.com/pt-BR/view/tommy-the-cat-swag-gif-25408043)
